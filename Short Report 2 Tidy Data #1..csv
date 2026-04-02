@@ -1,0 +1,127 @@
+﻿School,Rank,Adj_type,Salary
+Amherst,Full ,Real,155832.57
+Amherst,Assoc,Real,110986.29
+Amherst,Assist,Real,93328.94
+Amherst,Full ,COLA,142275.1364
+Amherst,Assoc,COLA,101330.4828
+Amherst,Assist,COLA,85859.19043
+Bates,Full ,Real,134487.13
+Bates,Assoc,Real,105216.93
+Bates,Assist,Real,85861.9
+Bates,Full ,COLA,153180.8411
+Bates,Assoc,COLA,119842.0833
+Bates,Assist,COLA,85861.9
+Bowdoin,Full ,Real,146856.94
+Bowdoin,Assoc,Real,113680.19
+Bowdoin,Assist,Real,91352.21
+Bowdoin,Full ,COLA,137458.0958
+Bowdoin,Assoc,COLA,106404.6578
+Bowdoin,Assist,COLA,85505.66856
+Carleton,Full ,Real,141305.4
+Carleton,Assoc,Real,107210.25
+Carleton,Assist,Real,88513.61
+Carleton,Full ,COLA,137914.0704
+Carleton,Assoc,COLA,104637.204
+Carleton,Assist,COLA,86389.28336
+Claremont McKenna,Full ,Real,176097.86
+Claremont McKenna,Assoc,Real,128041.61
+Claremont McKenna,Assist,Real,108669.75
+Claremont McKenna,Full ,COLA,60401.56598
+Claremont McKenna,Assoc,COLA,43918.27223
+Claremont McKenna,Assist,COLA,37273.72425
+Colby,Full ,Real,145970.84
+Colby,Assoc,Real,105841.43
+Colby,Assist,Real,88083.89
+Colby,Full ,COLA,177062.6289
+Colby,Assoc,COLA,128385.6546
+Colby,Assist,COLA,106845.7586
+Colgate,Full ,Real,151653.61
+Colgate,Assoc,Real,108479.27
+Colgate,Assist,Real,92464.38
+Colgate,Full ,COLA,175008.2659
+Colgate,Assoc,COLA,125185.0776
+Colgate,Assist,COLA,106703.8945
+Davidson,Full ,Real,134729.29
+Davidson,Assoc,Real,98242.92
+Davidson,Assist,Real,79876.9
+Davidson,Full ,COLA,112094.7693
+Davidson,Assoc,COLA,81738.10944
+Davidson,Assist,COLA,66457.5808
+Furman,Full ,Real,102722.95
+Furman,Assoc,Real,82983.13
+Furman,Assist,Real,70363.92
+Furman,Full ,COLA,114330.6434
+Furman,Assoc,COLA,92360.22369
+Furman,Assist,COLA,78315.04296
+Grinnell,Full ,Real,139557.74
+Grinnell,Assoc,Real,105907.67
+Grinnell,Assist,Real,87727.22
+Grinnell,Full ,COLA,168585.7499
+Grinnell,Assoc,COLA,127936.4654
+Grinnell,Assist,COLA,105974.4818
+Hamilton,Full ,Real,142149.28
+Hamilton,Assoc,Real,108150
+Hamilton,Assist,Real,88382.78
+Hamilton,Full ,COLA,176975.8536
+Hamilton,Assoc,COLA,134646.75
+Hamilton,Assist,COLA,110036.5611
+Haverford,Full ,Real,131175.59
+Haverford,Assoc,Real,101031.32
+Haverford,Assist,Real,84959.35
+Haverford,Full ,COLA,38827.97464
+Haverford,Assoc,COLA,29905.27072
+Haverford,Assist,COLA,25147.9676
+Macalester,Full ,Real,126583.01
+Macalester,Assoc,Real,95132.95
+Macalester,Assist,Real,79774.8
+Macalester,Full ,COLA,128355.1721
+Macalester,Assoc,COLA,96464.8113
+Macalester,Assist,COLA,80891.6472
+Middlebury,Full ,Real,140387.28
+Middlebury,Assoc,Real,104368.11
+Middlebury,Assist,Real,90234.19
+Middlebury,Full ,COLA,144318.1238
+Middlebury,Assoc,COLA,107290.4171
+Middlebury,Assist,COLA,92760.74732
+Oberlin,Full ,Real,122742.26
+Oberlin,Assoc,Real,94994.3
+Oberlin,Assist,Real,72109.46
+Oberlin,Full ,COLA,150850.2375
+Oberlin,Assoc,COLA,116747.9947
+Oberlin,Assist,COLA,88622.52634
+Pomona,Full ,Real,160490.68
+Pomona,Assoc,Real,120016.47
+Pomona,Assist,Real,98629.45
+Pomona,Full ,COLA,55048.30324
+Pomona,Assoc,COLA,41165.64921
+Pomona,Assist,COLA,33829.90135
+Swarthmore,Full ,Real,156328.64
+Swarthmore,Assoc,Real,111489.46
+Swarthmore,Assist,Real,87689.87
+Swarthmore,Full ,COLA,136943.8886
+Swarthmore,Assoc,COLA,97664.76696
+Swarthmore,Assist,COLA,76816.32612
+Vassar,Full ,Real,142788.3
+Vassar,Assoc,Real,111493.42
+Vassar,Assist,Real,89257.63
+Vassar,Full ,COLA,139218.5925
+Vassar,Assoc,COLA,108706.0845
+Vassar,Assist,COLA,87026.18925
+Washington and Lee,Full ,Real,143853.24
+Washington and Lee,Assoc,Real,115712.37
+Washington and Lee,Assist,Real,95154.32
+Washington and Lee,Full ,COLA,164424.2533
+Washington and Lee,Assoc,COLA,132259.2389
+Washington and Lee,Assist,COLA,108761.3878
+Wesleyan,Full ,Real,158454.83
+Wesleyan,Assoc,Real,111007.56
+Wesleyan,Assist,Real,91207.26
+Wesleyan,Full ,COLA,154335.0044
+Wesleyan,Assoc,COLA,108121.3634
+Wesleyan,Assist,COLA,88835.87124
+Williams,Full ,Real,149902.98
+Williams,Assoc,Real,106039.74
+Williams,Assist,Real,93837.29
+Williams,Full ,COLA,148553.8532
+Williams,Assoc,COLA,105085.3823
+Williams,Assist,COLA,92992.75439
